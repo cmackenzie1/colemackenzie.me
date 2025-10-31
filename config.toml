@@ -10,7 +10,7 @@ disableKinds = ["taxonomy", "term"]
 [author]
   name = "Cole MacKenzie"
   headline = "Senior Systems Engineer @ Cloudflare"
-  image = "img/author.jpg" 
+  image = "img/author.jpg"
 
   links = [
     # { email = "mailto:hello@your_domain.com" },
